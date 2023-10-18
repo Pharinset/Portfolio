@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae10e877b43b30b4fac5515a93af4197, type: 3}
+  m_Name: FruitInitData
+  m_EditorClassIdentifier: 
+  fruitPrefab: {fileID: 3545194713898367552, guid: ed51b3e3da1331b4e8bdc82b23cf1b00, type: 3}
+  fruitHalfPrefab: {fileID: 8670325335853811556, guid: c5903a0ae273dc7489f116037dcef8f3, type: 3}
+  fruit: {fileID: 5585558840886206792, guid: 8634ca4ac9cf61b47967d0bc1699f0f0, type: 3}
+  fruitHalf: {fileID: 7623301405226226319, guid: 8634ca4ac9cf61b47967d0bc1699f0f0, type: 3}

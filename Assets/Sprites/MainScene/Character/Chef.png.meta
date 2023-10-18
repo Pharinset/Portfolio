@@ -1,0 +1,1452 @@
+fileFormatVersion: 2
+guid: 06be2de90ade0ed4e84f9e39367c7948
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1066271213188140057
+    second: PlayStation - Xenogears - Aveh Chef_0
+  - first:
+      213: -3612400567649972490
+    second: PlayStation - Xenogears - Aveh Chef_1
+  - first:
+      213: 1253175623732262950
+    second: PlayStation - Xenogears - Aveh Chef_2
+  - first:
+      213: 4575789371532115636
+    second: PlayStation - Xenogears - Aveh Chef_3
+  - first:
+      213: 5937294003256358244
+    second: PlayStation - Xenogears - Aveh Chef_4
+  - first:
+      213: 5245995380759737011
+    second: PlayStation - Xenogears - Aveh Chef_5
+  - first:
+      213: 3352531071578355171
+    second: PlayStation - Xenogears - Aveh Chef_6
+  - first:
+      213: 446882914184034861
+    second: PlayStation - Xenogears - Aveh Chef_7
+  - first:
+      213: 6575758377264203948
+    second: PlayStation - Xenogears - Aveh Chef_8
+  - first:
+      213: 7177302916505160245
+    second: PlayStation - Xenogears - Aveh Chef_9
+  - first:
+      213: 8563992178413466278
+    second: PlayStation - Xenogears - Aveh Chef_10
+  - first:
+      213: -3550811490741776654
+    second: PlayStation - Xenogears - Aveh Chef_11
+  - first:
+      213: 5650794643938660875
+    second: PlayStation - Xenogears - Aveh Chef_12
+  - first:
+      213: -1672568383592975258
+    second: PlayStation - Xenogears - Aveh Chef_13
+  - first:
+      213: -4532667424289170039
+    second: PlayStation - Xenogears - Aveh Chef_14
+  - first:
+      213: 3488533645868811082
+    second: PlayStation - Xenogears - Aveh Chef_15
+  - first:
+      213: 5184065728728227021
+    second: PlayStation - Xenogears - Aveh Chef_16
+  - first:
+      213: -8445760085786897229
+    second: PlayStation - Xenogears - Aveh Chef_17
+  - first:
+      213: 5537044495769194136
+    second: PlayStation - Xenogears - Aveh Chef_18
+  - first:
+      213: 7984633263773233677
+    second: PlayStation - Xenogears - Aveh Chef_19
+  - first:
+      213: 470300683895043556
+    second: PlayStation - Xenogears - Aveh Chef_20
+  - first:
+      213: 378064242453765736
+    second: PlayStation - Xenogears - Aveh Chef_21
+  - first:
+      213: -2679839691924758646
+    second: PlayStation - Xenogears - Aveh Chef_22
+  - first:
+      213: 6501468223401320434
+    second: PlayStation - Xenogears - Aveh Chef_23
+  - first:
+      213: 605104798974855838
+    second: PlayStation - Xenogears - Aveh Chef_24
+  - first:
+      213: -2743867149943633913
+    second: PlayStation - Xenogears - Aveh Chef_25
+  - first:
+      213: -9134995248789765537
+    second: PlayStation - Xenogears - Aveh Chef_26
+  - first:
+      213: -6543324868353153337
+    second: PlayStation - Xenogears - Aveh Chef_27
+  - first:
+      213: 198287575060999924
+    second: PlayStation - Xenogears - Aveh Chef_28
+  - first:
+      213: -7213207888640852025
+    second: PlayStation - Xenogears - Aveh Chef_29
+  - first:
+      213: -2992924128061734153
+    second: PlayStation - Xenogears - Aveh Chef_30
+  - first:
+      213: 2151583292134916598
+    second: PlayStation - Xenogears - Aveh Chef_31
+  - first:
+      213: 5744888492829607167
+    second: PlayStation - Xenogears - Aveh Chef_32
+  - first:
+      213: -212091387580847369
+    second: PlayStation - Xenogears - Aveh Chef_33
+  - first:
+      213: 4092273391576072330
+    second: PlayStation - Xenogears - Aveh Chef_34
+  - first:
+      213: 7508315602404109925
+    second: PlayStation - Xenogears - Aveh Chef_35
+  - first:
+      213: 2377781568761641100
+    second: PlayStation - Xenogears - Aveh Chef_36
+  - first:
+      213: -1331957739898470554
+    second: PlayStation - Xenogears - Aveh Chef_37
+  - first:
+      213: -3350173653973335115
+    second: PlayStation - Xenogears - Aveh Chef_38
+  - first:
+      213: 7749555287159794469
+    second: PlayStation - Xenogears - Aveh Chef_39
+  - first:
+      213: -5002958014999400382
+    second: PlayStation - Xenogears - Aveh Chef_40
+  - first:
+      213: -8020378688302600851
+    second: PlayStation - Xenogears - Aveh Chef_41
+  - first:
+      213: 3458933171508450532
+    second: PlayStation - Xenogears - Aveh Chef_42
+  - first:
+      213: -8593967280144359424
+    second: PlayStation - Xenogears - Aveh Chef_43
+  - first:
+      213: 7020442343493779317
+    second: PlayStation - Xenogears - Aveh Chef_44
+  - first:
+      213: -6717746545272029935
+    second: PlayStation - Xenogears - Aveh Chef_45
+  - first:
+      213: 7982919020625534612
+    second: PlayStation - Xenogears - Aveh Chef_46
+  - first:
+      213: -3764777039055936275
+    second: PlayStation - Xenogears - Aveh Chef_47
+  - first:
+      213: 7616832753334301842
+    second: PlayStation - Xenogears - Aveh Chef_48
+  - first:
+      213: -8296058149733073619
+    second: PlayStation - Xenogears - Aveh Chef_49
+  - first:
+      213: 2568163116209601339
+    second: PlayStation - Xenogears - Aveh Chef_50
+  - first:
+      213: -1181600689484799489
+    second: PlayStation - Xenogears - Aveh Chef_51
+  - first:
+      213: 6853287576486070805
+    second: PlayStation - Xenogears - Aveh Chef_52
+  - first:
+      213: 4684883479325093369
+    second: PlayStation - Xenogears - Aveh Chef_53
+  - first:
+      213: 863234132316674250
+    second: PlayStation - Xenogears - Aveh Chef_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 327
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e332bf1bf7d331f0800000000000000
+      internalID: -1066271213188140057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 327
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fecdc2b2dc2eddc0800000000000000
+      internalID: -3612400567649972490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 326
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6287db5179c246110800000000000000
+      internalID: 1253175623732262950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 326
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4befd299038708f30800000000000000
+      internalID: 4575789371532115636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 325
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465f6275071856250800000000000000
+      internalID: 5937294003256358244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 325
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2368b11058dc840800000000000000
+      internalID: 5245995380759737011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 324
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e533e34f35968e20800000000000000
+      internalID: 3352531071578355171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 324
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a712c84a5a33600800000000000000
+      internalID: 446882914184034861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 325
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8c1ad7769c14b50800000000000000
+      internalID: 6575758377264203948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_9
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 325
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a4aafb9f6ea9360800000000000000
+      internalID: 7177302916505160245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 263
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2fe85238969d670800000000000000
+      internalID: 8563992178413466278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 262
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe06fd13cbf8bec0800000000000000
+      internalID: -3550811490741776654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_12
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 261
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02d4aa1ac7ab6e40800000000000000
+      internalID: 5650794643938660875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_13
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 260
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6643461bae7d9c8e0800000000000000
+      internalID: -1672568383592975258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_14
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 261
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d52422efab811c0800000000000000
+      internalID: -4532667424289170039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_15
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 262
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43420d2ed2c96030800000000000000
+      internalID: 3488533645868811082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_16
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 261
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc5f1d505081f740800000000000000
+      internalID: 5184065728728227021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_17
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 264
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4df7413f1aaca80800000000000000
+      internalID: -8445760085786897229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_18
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 263
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ecad3e1a887dc40800000000000000
+      internalID: 5537044495769194136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_19
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 262
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02b8f426ad1fce60800000000000000
+      internalID: 7984633263773233677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 197
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5ff21faf7d68600800000000000000
+      internalID: 470300683895043556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_21
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 201
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86edbb9ec672f3500800000000000000
+      internalID: 378064242453765736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_22
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 200
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f15d3affb4fcad0800000000000000
+      internalID: -2679839691924758646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_23
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 197
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff535627ead93a50800000000000000
+      internalID: 6501468223401320434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_24
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 197
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ac7c2db93c56800800000000000000
+      internalID: 605104798974855838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_25
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 202
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7080fb06d53dbe9d0800000000000000
+      internalID: -2743867149943633913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_26
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 201
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f524103783af93180800000000000000
+      internalID: -9134995248789765537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_27
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 201
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6a4d343b07135a0800000000000000
+      internalID: -6543324868353153337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_28
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 200
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe62eabf7570c200800000000000000
+      internalID: 198287575060999924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_29
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 200
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf348a74a985eb90800000000000000
+      internalID: -7213207888640852025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 134
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f24f2bdc5ff676d0800000000000000
+      internalID: -2992924128061734153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 135
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f10e58ca95fbdd10800000000000000
+      internalID: 2151583292134916598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_32
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 135
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4865185a1f9bf40800000000000000
+      internalID: 5744888492829607167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_33
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 137
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fae257b1008e0df0800000000000000
+      internalID: -212091387580847369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_34
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 136
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80cca4c7fcaac830800000000000000
+      internalID: 4092273391576072330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_35
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 136
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ee1d67245e23860800000000000000
+      internalID: 7508315602404109925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_36
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 136
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88328f1db39ff020800000000000000
+      internalID: 2377781568761641100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_37
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 135
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ff4891e7fe38de0800000000000000
+      internalID: -1331957739898470554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_38
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 134
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b30c0bcfcac181d0800000000000000
+      internalID: -3350173653973335115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_39
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 136
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52be86a8973fb8b60800000000000000
+      internalID: 7749555287159794469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 73
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24074c1313ce19ab0800000000000000
+      internalID: -5002958014999400382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_41
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 72
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d2c97a314e1b090800000000000000
+      internalID: -8020378688302600851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_42
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 70
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4939da469900030800000000000000
+      internalID: 3458933171508450532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_43
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 70
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0006aaf9a481cb880800000000000000
+      internalID: -8593967280144359424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_44
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 70
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fbe029d1f9d6160800000000000000
+      internalID: 7020442343493779317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_45
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 70
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11df3f5fb15c5c2a0800000000000000
+      internalID: -6717746545272029935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_46
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 71
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e181fcd8609ce60800000000000000
+      internalID: 7982919020625534612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_47
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 71
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de42688ca33d0cbc0800000000000000
+      internalID: -3764777039055936275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_48
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 70
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2943d00980d64b960800000000000000
+      internalID: 7616832753334301842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_49
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 71
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dfc25311b7edc80800000000000000
+      internalID: -8296058149733073619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_50
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 6
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bfeea5fb2f3a320800000000000000
+      internalID: 2568163116209601339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_51
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 7
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1e6ecee6c1a9fe0800000000000000
+      internalID: -1181600689484799489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_52
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 6
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51acc049db4cb1f50800000000000000
+      internalID: 6853287576486070805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_53
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 6
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fda44fe3bc040140800000000000000
+      internalID: 4684883479325093369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Xenogears - Aveh Chef_54
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 6
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac85ab6aed2dafb00800000000000000
+      internalID: 863234132316674250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

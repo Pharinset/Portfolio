@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e6059c2434966b42a51cbce43ee5749, type: 3}
+  m_Name: StoveInitData
+  m_EditorClassIdentifier: 
+  _greenZoneMin: 165
+  _greenZoneMax: 195
+  _redZoneMin: 150
+  _redZoneMax: 210
+  _stoveObj: {fileID: 4670500830766729205, guid: d190732b360116d42b57cfae89c75735, type: 3}
+  _temperatureObj: {fileID: 8345782800518179920, guid: 38134bc426043bf489005aa21774a2e3, type: 3}
+  _temperatureSwitchObj: {fileID: 3796692008487943563, guid: c323e0cd6fac3d148a14e09cf078905a, type: 3}

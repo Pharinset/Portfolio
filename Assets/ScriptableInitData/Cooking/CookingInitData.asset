@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c3f3043818108f4ba1c4ec264bb91af, type: 3}
+  m_Name: CookingInitData
+  m_EditorClassIdentifier: 
+  _dought: {fileID: 2551189852462476798, guid: bfd78c57d192fa242b9aadc346a12403, type: 3}
+  _ingredientsParent: {fileID: 2051044505260319090, guid: 7649e463125b46049a39bab3594ef3be, type: 3}
